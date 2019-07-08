@@ -1,7 +1,7 @@
 class CassandraCppDriver < Formula
   homepage "http://datastax.github.io/cpp-driver/"
-  url "https://github.com/datastax/cpp-driver/archive/2.6.0.tar.gz"
-  sha256 "91a00e1922c4c90d614a013f79e9338afe2d12491b6db8cc7d8e09b09ea75eaf"
+  url "https://github.com/datastax/cpp-driver/archive/2.12.0.tar.gz"
+  sha256 "67c51ebccaa85d9b686ffa007d042b8aa93a3ca802bc1d329e510d56899557b6"
 
   head "https://github.com/datastax/cpp-driver.git", :branch => "master"
 
